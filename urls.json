@@ -1,0 +1,14 @@
+{
+    "Aashirvaad": {
+        "dmart": "https://digital.dmart.in/api/v2/pdp/aashirvaad-superior-mp-atta?profile=details&channel=web",
+        "bigbasket": "https://www.bigbasket.com/pd/126906/aashirvaad-atta-whole-wheat-10-kg-pouch/",
+        "blinkit": "https://blinkit.com/v6/merchant/30558/product/68483?current_screen=pdp",
+        "flipkartG": "https://www.flipkart.com/aashirvaad-superior-mp-atta/p/itmevbgvupx4gqxb?pid=FLREUC5PJYTYFBE2&lid=LSTFLREUC5PJYTYFBE2MVLMFF&marketplace=GROCERY",
+        "jiomart": "https://www.jiomart.com/catalog/productdetails/get/490000041"
+    },
+    "AmulButter": {
+        "dmart": "https://digital.dmart.in/api/v2/pdp/amul-butter?profile=details&channel=web",
+        "jiomart": "https://www.jiomart.com/catalog/productdetails/get/490001387",
+        "blinkit": "https://blinkit.com/v6/merchant/30558/product/159?current_screen=pdp"
+    }
+}
